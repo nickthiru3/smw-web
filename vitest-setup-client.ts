@@ -16,3 +16,5 @@ Object.defineProperty(window, 'matchMedia', {
 });
 
 // add more mocks here if you need them
+/// <reference types="@vitest/browser/matchers" />
+/// <reference types="@vitest/browser/providers/playwright" />
